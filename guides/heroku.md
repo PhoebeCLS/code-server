@@ -12,7 +12,7 @@ Launch code-server on Heroku to get on-demand dev environments that turn off whe
 
 ---
 
-## Step 2: Configure & deploy your environment
+## Step 2: Configure or deploy your environment
 
 `App name`: The URL and you can access code-server with
 
